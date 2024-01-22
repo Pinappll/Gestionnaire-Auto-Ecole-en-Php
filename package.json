@@ -1,0 +1,26 @@
+{
+  "name": "gestionnaire-auto-ecole-en-php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinappll/Gestionnaire-Auto-Ecole-en-PHP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pinappll/Gestionnaire-Auto-Ecole-en-PHP/issues"
+  },
+  "homepage": "https://github.com/Pinappll/Gestionnaire-Auto-Ecole-en-PHP#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "husky": "^8.0.3"
+  }
+}

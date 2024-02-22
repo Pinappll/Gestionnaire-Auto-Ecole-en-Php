@@ -14,11 +14,12 @@ Ce projet est un système de gestion pour une auto-école, développé en PHP en
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
-2. Installez les dépendances avec Composer : `composer install`.
-3. Configurez votre base de données dans le fichier `.env`.
-4. Créez la base de données avec la commande : `php bin/console doctrine:database:create`.
-5. Exécutez les migrations avec la commande : `php bin/console doctrine:migrations:migrate`.
-6. (Optionnel) Chargez les fixtures avec la commande : `php bin/console doctrine:fixtures:load`.
+2. Installez les dépendances avec npm : `npm install`.
+3. Installez les dépendances avec Composer : `composer install`.
+4. Configurez votre base de données dans le fichier `.env`.
+5. Créez la base de données avec la commande : `php bin/console doctrine:database:create`.
+6. Exécutez les migrations avec la commande : `php bin/console doctrine:migrations:migrate`.
+7. (Optionnel) Chargez les fixtures avec la commande : `php bin/console doctrine:fixtures:load`.
 
 ## Utilisation
 
